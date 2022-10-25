@@ -1,0 +1,248 @@
+--release
+--output
+F:\PC\Projet EC\B4A\ESH\ESH\Objects
+--lib
+C:\Android\platforms\android-30\android.jar
+C:\Android\tools\..\extras\b4a_local\unpacked-b4ashared-63792611270000\dex_v1\b4ashared.zip
+c:\android\tools\..\extras\b4a_local\unpacked-appcompat.androidx-63800578427175\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\appcompat\appcompat\1.2.0\unpacked-appcompat-1.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\appcompat\appcompat\1.2.0\unpacked-appcompat-1.2.0\jars\lint.zip
+c:\android\tools\..\extras\b4a_remote\androidx\core\core\1.3.1\unpacked-core-1.3.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-runtime\2.2.0\unpacked-lifecycle-runtime-2.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\versionedparcelable\versionedparcelable\1.1.1\unpacked-versionedparcelable-1.1.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\cursoradapter\cursoradapter\1.0.0\unpacked-cursoradapter-1.0.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\fragment\fragment\1.2.5\unpacked-fragment-1.2.5\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\fragment\fragment\1.2.5\unpacked-fragment-1.2.5\jars\lint.zip
+c:\android\tools\..\extras\b4a_remote\androidx\viewpager\viewpager\1.0.0\unpacked-viewpager-1.0.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\customview\customview\1.1.0\unpacked-customview-1.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\loader\loader\1.1.0\unpacked-loader-1.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-livedata-core\2.2.0\unpacked-lifecycle-livedata-core-2.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\arch\core\core-runtime\2.1.0\unpacked-core-runtime-2.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-viewmodel\2.2.0\unpacked-lifecycle-viewmodel-2.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\activity\activity\1.1.0\unpacked-activity-1.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\savedstate\savedstate\1.0.0\unpacked-savedstate-1.0.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-viewmodel-savedstate\2.2.0\unpacked-lifecycle-viewmodel-savedstate-2.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\appcompat\appcompat-resources\1.2.0\unpacked-appcompat-resources-1.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\vectordrawable\vectordrawable\1.1.0\unpacked-vectordrawable-1.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\vectordrawable\vectordrawable-animated\1.1.0\unpacked-vectordrawable-animated-1.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\interpolator\interpolator\1.0.0\unpacked-interpolator-1.0.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\drawerlayout\drawerlayout\1.1.0\unpacked-drawerlayout-1.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\legacy\legacy-support-v4\1.0.0\unpacked-legacy-support-v4-1.0.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\media\media\1.1.0\unpacked-media-1.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\legacy\legacy-support-core-utils\1.0.0\unpacked-legacy-support-core-utils-1.0.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\documentfile\documentfile\1.0.1\unpacked-documentfile-1.0.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\localbroadcastmanager\localbroadcastmanager\1.0.0\unpacked-localbroadcastmanager-1.0.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\print\print\1.0.0\unpacked-print-1.0.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\legacy\legacy-support-core-ui\1.0.0\unpacked-legacy-support-core-ui-1.0.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\coordinatorlayout\coordinatorlayout\1.1.0\unpacked-coordinatorlayout-1.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\slidingpanelayout\slidingpanelayout\1.1.0\unpacked-slidingpanelayout-1.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\swiperefreshlayout\swiperefreshlayout\1.1.0\unpacked-swiperefreshlayout-1.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\asynclayoutinflater\asynclayoutinflater\1.0.0\unpacked-asynclayoutinflater-1.0.0\jars\classes.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-appcompat-63800578427125\dex_v1\appcompat.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-archiver-63800576953136\dex_v1\archiver.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-core-63792611270000\dex_v1\core.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-dialogs2-63800576997494\dex_v1\dialogs2.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-httpserver-63800577208743\dex_v1\httpserver.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-javaobject-63792611270000\dex_v1\javaobject.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-json-63792611270000\dex_v1\json.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-net-63800577259368\dex_v1\net.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-network-63792611270000\dex_v1\network.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-phone-63792611270000\dex_v1\phone.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-randomaccessfile-63792611270000\dex_v1\randomaccessfile.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-runtimepermissions-63792611270000\dex_v1\runtimepermissions.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-stringutils-63792611270000\dex_v1\stringutils.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-xcustomlistview-63792611270000\dex_v1\xcustomlistview.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-xmllayoutbuilder-63800577451879\dex_v1\xmllayoutbuilder.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-xui-63792611270000\dex_v1\xui.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-notificationbuilder-63800577307991\dex_v1\notificationbuilder.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-animation-63792611270000\dex_v1\animation.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-okhttp-63792611270000\dex_v1\okhttp.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-okhttp-4.9.0-63792611270000\dex_v1\okhttp-4.9.0.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-okio-2.8.0-63792611270000\dex_v1\okio-2.8.0.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-okhttp-urlconnection-4.9.3-63792611270000\dex_v1\okhttp-urlconnection-4.9.3.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-kotlin-stdlib-1.6.10-63792611270000\dex_v1\kotlin-stdlib-1.6.10.zip
+c:\android\tools\..\extras\b4a_remote\androidx\annotation\annotation\1.5.0\annotation-1.5.0.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-common\2.2.0\lifecycle-common-2.2.0.zip
+c:\android\tools\..\extras\b4a_remote\androidx\arch\core\core-common\2.1.0\core-common-2.1.0.zip
+c:\android\tools\..\extras\b4a_remote\androidx\collection\collection\1.1.0\collection-1.1.0.zip
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\R$anim.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\R$attr.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\R$bool.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\R$color.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\R$dimen.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\R$drawable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\R$id.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\R$integer.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\R$interpolator.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\R$layout.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\R$string.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\R$style.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\R$styleable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\R$xml.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\R.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\resources\R$anim.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\resources\R$attr.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\resources\R$bool.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\resources\R$color.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\resources\R$dimen.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\resources\R$drawable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\resources\R$id.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\resources\R$integer.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\resources\R$interpolator.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\resources\R$layout.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\resources\R$string.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\resources\R$style.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\resources\R$styleable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\resources\R$xml.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\appcompat\resources\R.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\coordinatorlayout\R$anim.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\coordinatorlayout\R$attr.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\coordinatorlayout\R$bool.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\coordinatorlayout\R$color.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\coordinatorlayout\R$dimen.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\coordinatorlayout\R$drawable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\coordinatorlayout\R$id.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\coordinatorlayout\R$integer.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\coordinatorlayout\R$interpolator.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\coordinatorlayout\R$layout.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\coordinatorlayout\R$string.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\coordinatorlayout\R$style.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\coordinatorlayout\R$styleable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\coordinatorlayout\R$xml.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\coordinatorlayout\R.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\core\R$anim.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\core\R$attr.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\core\R$bool.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\core\R$color.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\core\R$dimen.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\core\R$drawable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\core\R$id.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\core\R$integer.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\core\R$interpolator.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\core\R$layout.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\core\R$string.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\core\R$style.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\core\R$styleable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\core\R$xml.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\core\R.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\drawerlayout\R$anim.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\drawerlayout\R$attr.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\drawerlayout\R$bool.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\drawerlayout\R$color.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\drawerlayout\R$dimen.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\drawerlayout\R$drawable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\drawerlayout\R$id.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\drawerlayout\R$integer.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\drawerlayout\R$interpolator.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\drawerlayout\R$layout.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\drawerlayout\R$string.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\drawerlayout\R$style.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\drawerlayout\R$styleable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\drawerlayout\R$xml.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\drawerlayout\R.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\fragment\R$anim.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\fragment\R$attr.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\fragment\R$bool.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\fragment\R$color.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\fragment\R$dimen.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\fragment\R$drawable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\fragment\R$id.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\fragment\R$integer.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\fragment\R$interpolator.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\fragment\R$layout.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\fragment\R$string.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\fragment\R$style.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\fragment\R$styleable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\fragment\R$xml.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\fragment\R.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\media\R$anim.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\media\R$attr.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\media\R$bool.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\media\R$color.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\media\R$dimen.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\media\R$drawable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\media\R$id.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\media\R$integer.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\media\R$interpolator.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\media\R$layout.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\media\R$string.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\media\R$style.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\media\R$styleable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\media\R$xml.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\media\R.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\swiperefreshlayout\R$anim.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\swiperefreshlayout\R$attr.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\swiperefreshlayout\R$bool.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\swiperefreshlayout\R$color.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\swiperefreshlayout\R$dimen.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\swiperefreshlayout\R$drawable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\swiperefreshlayout\R$id.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\swiperefreshlayout\R$integer.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\swiperefreshlayout\R$interpolator.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\swiperefreshlayout\R$layout.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\swiperefreshlayout\R$string.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\swiperefreshlayout\R$style.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\swiperefreshlayout\R$styleable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\swiperefreshlayout\R$xml.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\androidx\swiperefreshlayout\R.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\anywheresoftware\b4a\objects\R$anim.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\anywheresoftware\b4a\objects\R$attr.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\anywheresoftware\b4a\objects\R$bool.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\anywheresoftware\b4a\objects\R$color.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\anywheresoftware\b4a\objects\R$dimen.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\anywheresoftware\b4a\objects\R$drawable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\anywheresoftware\b4a\objects\R$id.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\anywheresoftware\b4a\objects\R$integer.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\anywheresoftware\b4a\objects\R$interpolator.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\anywheresoftware\b4a\objects\R$layout.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\anywheresoftware\b4a\objects\R$string.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\anywheresoftware\b4a\objects\R$style.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\anywheresoftware\b4a\objects\R$styleable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\anywheresoftware\b4a\objects\R$xml.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\anywheresoftware\b4a\objects\R.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\callsubutils$_rundelayeddata.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\callsubutils.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\ftpasyncstreamstext.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\ftpclient$_ftptask.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\ftpclient.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\ftpdataconnection.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\ftpserver$_ftpuser.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\ftpserver.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\httpjob$_multipartfiledata.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\httpjob.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\httputils2service$1.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\httputils2service$2.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\httputils2service$httputils2service_BR.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\httputils2service.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\main$1.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\main$B4AMenuItemsClickListener.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\main$HandleKeyDelayed.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\main$ResumableSub_Button1_Click.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\main$ResumeMessage.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\main$WaitForLayout.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\main.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\nb6.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\R$anim.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\R$attr.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\R$bool.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\R$color.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\R$dimen.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\R$drawable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\R$id.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\R$integer.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\R$interpolator.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\R$layout.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\R$string.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\R$style.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\R$styleable.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\R$xml.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\R.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\serverservice$1.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\serverservice$2.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\serverservice$serverservice_BR.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\serverservice.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\starter$1.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\starter$2.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\starter$starter_BR.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\starter.dex
+F:\PC\Projet EC\B4A\ESH\ESH\Objects\dexed\ESH\Hakkuraifu\designerscripts\LS_layout.dex

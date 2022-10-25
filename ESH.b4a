@@ -1,0 +1,137 @@
+﻿Build1=Default,b4a.example
+Build2=ESH,ESH.Hakkuraifu
+File1=ESH.zip
+File2=Layout.bal
+FileGroup1=Default Group
+FileGroup2=Default Group
+Group=Default Group
+Library1=appcompat
+Library10=net
+Library11=network
+Library12=okhttputils2
+Library13=phone
+Library14=randomaccessfile
+Library15=runtimepermissions
+Library16=stringutils
+Library17=xcustomlistview
+Library18=xmllayoutbuilder
+Library19=xui
+Library2=archiver
+Library20=notificationbuilder
+Library3=core
+Library4=dialogs2
+Library5=ftpserver
+Library6=httpserver
+Library7=javaobject
+Library8=json
+Library9=nb6
+ManifestCode='This code will be applied to the manifest file during compilation.~\n~'You do not need to modify it in most cases.~\n~'See this link for for more information: https://www.b4x.com/forum/showthread.php?p=78136~\n~AddManifestText(~\n~<uses-sdk android:minSdkVersion="6" android:targetSdkVersion="31"/>~\n~<uses-permission~\n~	android:name="android.permission.WRITE_EXTERNAL_STORAGE"~\n~	android:maxSdkVersion="30" />~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~CreateResourceFromFile(Macro, Themes.DarkTheme)~\n~'End of default text.~\n~SetApplicationAttribute(android:requestLegacyExternalStorage, true)~\n~AddPermission(android.permission.READ_EXTERNAL_STORAGE) ' Allows an application to read from external storage.~\n~AddPermission(android.permission.WRITE_EXTERNAL_STORAGE) ' Allows an application to write to external storage.~\n~AddPermission(android.permission.FOREGROUND_SERVICE)~\n~AddPermission(android.permission.ACCESS_NETWORK_STATE)~\n~AddPermission(android.permission.ACCESS_WIFI_STATE)~\n~AddPermission("android.permission.ACCESS_SUPERUSER")~\n~AddPermission(android.permission.INTERNET) ' Allows applications to open network sockets.~\n~CreateResourceFromFile(Macro, Core.NetworkClearText)~\n~~\n~
+Module1=CallSubUtils
+Module2=ServerService
+Module3=Starter
+NumberOfFiles=2
+NumberOfLibraries=20
+NumberOfModules=3
+Version=11.8
+@EndOfDesignText@
+#Region  Project Attributes 
+	#ApplicationLabel: EchoStretchHost
+	#VersionCode: 1
+	#VersionName: BETA
+	'SupportedOrientations possible values: unspecified, landscape or portrait.
+	#SupportedOrientations: unspecified
+	#CanInstallToExternalStorage: False
+#End Region
+
+#Region  Activity Attributes 
+	#FullScreen: False
+	#IncludeTitle: false
+#End Region
+
+Sub Process_Globals
+	'These global variables will be declared once when the application starts.
+	'These variables can be accessed from all modules.
+	Private xui As XUI
+	Public csu As CallSubUtils
+	Private rp As RuntimePermissions
+End Sub
+
+Sub Globals
+	'These global variables will be redeclared each time the activity is created.
+	Private Button1 As Button
+	Private Button2 As Button
+	Public EditText1 As EditText
+	Private Label1 As Label
+	Private Label2 As Label
+	Private Label3 As Label
+	Private Label4 As Label
+	Private Label5 As Label
+	Private Label6 As Label
+	Private Panel1 As Panel
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+	Activity.LoadLayout("Layout")
+End Sub
+
+Sub Activity_Resume
+
+End Sub
+
+Sub Activity_Pause (UserClosed As Boolean)
+
+End Sub
+
+Sub Button1_Click
+	'xui.MsgboxAsync("Hello world!", "B4X")
+	rp.CheckAndRequest(rp.PERMISSION_READ_EXTERNAL_STORAGE)
+	rp.CheckAndRequest(rp.PERMISSION_WRITE_EXTERNAL_STORAGE)
+	Wait For Activity_PermissionResult (Permission As String, Result As Boolean)
+	If Result = True Then
+		Dim serv As ServerSocket
+		Dim ip As String
+		Dim p As PhoneWakeState
+		ip = serv.GetMyIP
+		Label2.Text = ip
+		EditText1.Text = EditText1.Text & CRLF & "Host start: http://" & ip & ":" & "8080"
+		Button1.Enabled = False
+		Button2.Enabled = True
+		p.KeepAlive(True)
+		eshhost
+		'Msgbox(sb.ToString.SubString2(sb.ToString.IndexOf("mt-wifi"),sb.ToString.IndexOf("Bcast:")).Replace("mt-wifi","").Replace("inet addr:",""), "ip:")
+	End If
+End Sub
+
+
+Sub logs(logr As String)
+	EditText1.Text = EditText1.Text & CRLF & logr
+End Sub
+
+Sub eshhost()
+	Try
+		File.MakeDir(File.DirInternal,"ESH")
+		File.Copy(File.DirAssets, "ESH.zip", File.DirInternal & "/ESH/", "ESH.zip")
+
+		Dim Arc As Archiver
+		Arc.UnZip(File.DirInternal & "/ESH/", "ESH.zip", File.DirInternal & "/ESH/", "extract host")
+		File.Delete(File.DirInternal & "/ESH/","ESH.zip")
+		StartService(ServerService)
+	Catch
+		Log(LastException)
+		Msgbox(LastException,"Error")
+	End Try
+End Sub
+
+Public Sub stopserver()
+	Dim p As PhoneWakeState
+	StopService(ServerService)
+	Button1.Enabled = True
+	Button2.Enabled = False
+	p.KeepAlive(False)
+	EditText1.Text = EditText1.Text & CRLF & "Host stop"
+End Sub
+
+
+Private Sub Button2_Click
+	stopserver
+End Sub
